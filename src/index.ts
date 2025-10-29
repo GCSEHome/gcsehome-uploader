@@ -27,7 +27,4 @@ export default R2Explorer({
 
   // Font
   fontFamily: "Lexend, sans-serif",
-
-  // Optional Cloudflare Access reference (for documentation link)
-  cfAccessTeamName: "gcsehome-team",
 });
